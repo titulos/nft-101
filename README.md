@@ -3,4 +3,4 @@ notas
 
 ## Apresentação: NFT em 10 minutos
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/B0jk7PoxHlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![NFT em 10 minutos](https://img.youtube.com/vi/B0jk7PoxHlw/0.jpg)](https://www.youtube.com/watch?v=B0jk7PoxHlw)
